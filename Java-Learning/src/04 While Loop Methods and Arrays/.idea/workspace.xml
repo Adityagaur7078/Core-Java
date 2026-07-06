@@ -2,9 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="21fa4cf0-6917-484c-8761-09ef9f9982f0" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Array.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ArraySearching.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TwoDimensionalArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../05Class and Object/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../05Class and Object/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../05Class and Object/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../05Class and Object/05Class and Object.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../05Class and Object/src/ClassVSObject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../05Class and Object/src/ProcessVSOOP.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -27,8 +30,11 @@
   "keyToString": {
     "Application.Array.executor": "Run",
     "Application.Car.executor": "Run",
+    "Application.ClassVSObject.executor": "Run",
+    "Application.ProcessVSOOP.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true"
   }
