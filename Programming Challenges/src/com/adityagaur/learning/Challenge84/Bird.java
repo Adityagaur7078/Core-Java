@@ -1,4 +1,14 @@
 package com.adityagaur.learning.Challenge84;
 
-public class Bird {
+public abstract class Bird implements Flyable{
+
+    private final String breed;
+
+    public Bird(String breed) {
+        this.breed = breed;
+    }
+
+    public String getBreed() {
+        return breed;
+    }
 }

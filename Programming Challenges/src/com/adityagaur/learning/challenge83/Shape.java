@@ -1,4 +1,5 @@
 package com.adityagaur.learning.challenge83;
 
-public class shape {
+public abstract class Shape {
+    public abstract double calculateArea();
 }
