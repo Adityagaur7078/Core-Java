@@ -1,4 +1,4 @@
-class Car
+class SuperCar
 {
     static
     {
@@ -9,7 +9,7 @@ class Car
         System.out.println("Instance Block Executed");
     }
 
-    Car()
+    SuperCar()
     {
         System.out.println("Constructor Executed");
     }
@@ -26,10 +26,10 @@ public class InstanceBlock
     {
         System.out.println("Main Method Executed\n");
 
-        Car c1 = new Car();
+        SuperCar c1 = new SuperCar();
         c1.show();
 
-        Car c2 = new Car();
+        SuperCar c2 = new SuperCar();
         c2.show();
     }
 }
