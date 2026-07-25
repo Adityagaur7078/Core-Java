@@ -1,4 +1,4 @@
-package in.kgcoding.executor;
+package com.adityagaur.executor;
 
 public class PrintTask implements Runnable {
     @Override

@@ -1,4 +1,4 @@
-package in.kgcoding.executor;
+package com.adityagaur.executor;
 
 import com.adityagaur.multithreading.runnable.PrintTask;
 
